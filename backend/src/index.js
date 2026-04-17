@@ -14,7 +14,7 @@ const cors = require('cors')
 // console.log("Hello")
 
 app.use(cors({
-    origin: 'https://your-frontend-name.onrender.com',
+    origin: 'https://braincode-frontend.onrender.com',
     credentials: true 
 }))
 
